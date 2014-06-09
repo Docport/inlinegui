@@ -73,14 +73,14 @@ These amazing people are maintaining this project:
 
 These amazing people have contributed finances to this project:
 
-- Past Sponsor: Myplanet Digital <hello@myplanetdigital.com> (http://www.myplanetdigital.com)
+- Past Sponsor: Myplanet Digital <hello@myplanet.io> (http://www.myplanet.io)
 - Michael Mooring (with Bounties)
 
-Become a sponsor!
+**Become a Sponsor!**
 
 Increase bounties on features/bugs at [![Bountysource](https://api.bountysource.com/badge/tracker?tracker_id=1083298)](https://www.bountysource.com/trackers/1083298-docport?utm_source=1083298&utm_medium=shield&utm_campaign=TRACKER_BADGE)
 
-Sponsor Bevry Directly via the following: 
+Sponsor Bevry directly via the following: 
 [![Gittip donate button](http://img.shields.io/gittip/bevry.png)](https://www.gittip.com/bevry/ "Donate weekly to this project using Gittip")
 [![Flattr donate button](http://img.shields.io/flattr/donate.png?color=yellow)](http://flattr.com/thing/344188/balupton-on-Flattr "Donate monthly to this project using Flattr")
 [![PayPayl donate button](http://img.shields.io/paypal/donate.png?color=yellow)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QB8GQPZAH84N6 "Donate once-off to this project using Paypal")
