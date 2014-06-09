@@ -1,5 +1,5 @@
 # Docport
-## DocPad Cloud PaaS via [WebWrite's InlineGUI](https://github.com/webwrite/inlinegui)
+### A DocPad Cloud PaaS via [WebWrite's InlineGUI](https://github.com/webwrite/inlinegui)
 
 <!-- BADGES/ -->
 
