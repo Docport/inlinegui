@@ -34,6 +34,8 @@ Add support to your own backend by implementing the [Web Write Spec](https://git
 
 ## Usage
 
+See "Getting Started Locally" in our Wiki.
+
 Go to https://github.com/webwrite/inlinegui/ and connect your webwrite enabled website.
 
 To enable Webwrite for DocPad, check out the [inlinegui plugin](http://docpad.org/plugin/inlinegui).
