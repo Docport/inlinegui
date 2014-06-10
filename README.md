@@ -16,7 +16,7 @@ Add support to your own backend by implementing the [WebWrite Spec](https://gith
 
 **Under heavy and fast development. [Watch the Dev Update Videos to get the latest info!](https://cloudup.com/cF6jns2vGKv)**
 
-[Wiki](https://github.com/Docport/inlinegui/wiki) and [discussion](http://discuss.docport.io/).
+For more info see Docport's [wiki](https://github.com/Docport/inlinegui/wiki) and [discussion](http://discuss.docport.io/).
 
 
 ## Previews
