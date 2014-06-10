@@ -109,7 +109,7 @@ These amazing people have contributed code to this project:
 
 Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissive_free_software_licence) [MIT license](https://github.com/webwrite/inlinegui/blob/master/LICENSE.md#readme)
 
-Copyright &copy; 2013+ Bevry Pty Ltd <us@bevry.me> (http://bevry.me)
+Copyright &copy; 2014+ Bevry Pty Ltd <us@bevry.me> (http://bevry.me)
 
 <!-- /LICENSE -->
 
