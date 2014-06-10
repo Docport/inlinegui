@@ -81,7 +81,7 @@ These amazing people have contributed finances to this project:
 
 **Become a Sponsor!**
 
-Increase bounties on features/bugs at [![Bountysource](https://api.bountysource.com/badge/tracker?tracker_id=1083298)](https://www.bountysource.com/trackers/1083298-docport?utm_source=1083298&utm_medium=shield&utm_campaign=TRACKER_BADGE)
+Back bounties on features/bugs at [![Bountysource](https://api.bountysource.com/badge/tracker?tracker_id=1083298)](https://www.bountysource.com/trackers/1083298-docport?utm_source=1083298&utm_medium=shield&utm_campaign=TRACKER_BADGE)
 
 Sponsor Bevry directly via the following: 
 [![Gittip donate button](http://img.shields.io/gittip/bevry.png)](https://www.gittip.com/bevry/ "Donate weekly to this project using Gittip")
